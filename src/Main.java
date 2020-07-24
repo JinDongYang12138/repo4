@@ -8,5 +8,7 @@ public class Main {
 
         System.out.println("HelloWorld!修改");
 
+        System.out.println("克隆之后的修改HelloWorld!修改");
+
     }
 }
